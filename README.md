@@ -22,6 +22,10 @@ The dataset contains **20,507 transaction records** with the following columns:
 - Basic Data Cleaning
 - canva
 
+## 📊 Bakery Sales Dashboard  
+
+![Kookie Bakery Dashboard](https://github.com/akisavujel/Bakerysales-Dashboard-Excel/blob/04f7fbadc30834aeeb0376bf63c8e20aade56ef1/Bakerysales-Dashboard.png)
+
 ## 📊 Key Analysis Performed
 - Most frequently sold bakery items
 - Sales distribution by **Daypart**
