@@ -51,7 +51,7 @@ The dataset contains **20,507 transaction records** with the following columns:
 - Excel reporting and visualization
 - Analytical thinking
 
-## Key Insights
+## 💡 Key Insights
 
 - Total Transactions: 20,507 overall.
 - Weekdays vs Weekends: 12,807 transactions on weekdays, 7,700 on weekends—weekdays are busier.
